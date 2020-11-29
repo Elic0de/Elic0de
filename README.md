@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Elic0de's github stats](https://github-readme-stats.vercel.app/api?username=Elic0de)](https://github.com/Elic0de/github-readme-stats)
 <!--
 **Elic0de/Elic0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

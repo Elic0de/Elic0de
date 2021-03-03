@@ -6,7 +6,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elic0de" />
 </a>
-<img align="center" src"https://github-profile-trophy.vercel.app/?username=Elic0de&theme=monokai" />
+[![trophy](https://github-profile-trophy.vercel.app/?Elic0de=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Elic0de/Elic0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

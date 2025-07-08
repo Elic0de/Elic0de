@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=Elic0de%20|%20学生%20エンジニア&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
 </p>
 
-<h2 align="center">フルスタック(きっと) × リアルタイムゲーム開発</h2>
+<h2 align="center">大学 3 年 × Java & Vue 開発 × リアルタイムゲーム制作中</h2>
 
 <p align="center">
   <a href="mailto:san-j23005+job@sangi.jp"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

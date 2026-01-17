@@ -1,18 +1,3 @@
-<!-- ヘッダーバナー -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=Elic0de%20|%20学生%20エンジニア&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
-</p>
-
-
-
----
-
-## 🧑‍💻 自己紹介
-
-* **中学生の頃から** プログラミングに没頭し、身近な課題を解決するツールやゲームを開発。
-* **Vue 3 × Phaser × Colyseus** を用いたリアルタイムマルチプレイゲームを研究・開発。
-* Minecraft プラグイン開発 で人気 PvP ミニゲーム「The Pit」風サーバーを運営し、常時 70+ 人 のプレイヤーを獲得。
 
 ---
 
@@ -52,5 +37,3 @@
 </p>
 
 ---
-
-> 「自分のプロダクトが使われ、新しい開発や盛り上がりが生まれることに喜びを感じます。」
